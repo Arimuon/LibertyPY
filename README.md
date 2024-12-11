@@ -6,7 +6,7 @@
 ---------
 
 # LibertyPY
-![LibertyPY Logo](logo.png)
+<img src="https://imgur.com/a/MM2pZDR" alt="LibertyPY Logo" width="300"/
 A Python API wrapper for the ER:LC API.
 
 > [!IMPORTANT]\
