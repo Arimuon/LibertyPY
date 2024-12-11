@@ -35,57 +35,13 @@ pip install PLACEHOLDER
 Setup is easy:
 
 ```python
-from PLACEHOLDER import command
-
-# Define your API credentials
-base_url = "https://api.policeroleplay.community/v1" # !! Never change this !!
-server_key = "your_server_key" # API key from a ER:LC server
-global_api_key = "your_global_key" # !! Remove if unnecessary !!
-
-# Instantiate the objects
-
-## Create an instance of the Command class to use command related functions
-command_api = Command(base_url, server_key) # Add global_api_key if necessary (normally not)
-
-## Create an instance of the Information class to use information related functions
-info_api = Information(base_url, server_key) # Add global_api_key if necessary (normally not)
+PLACEHOLDER CODE BLOCK
 ```
 
 Now you can start using the API - here are some examples:
 
 ```python
-# Create an instance of the Command Class with your credentials
-command_api = Command(base_url, server_key)
-
-# Use the send_command method to send a remote command
-try:
-    response = command_api.send_command(":kick `roblox_name`") #Example
-
-    # Handle the API's Response
-    if response:
-        print(f"Command sent successfully. {response}")
-except Exception as e:
-    # Handle any Errors
-    print(f"An error occurred: {e}")
-```
-```python
-# Create an instance of the Information class
-info_api = Information(base_url, server_key) # Add global_api_key if necessary (normally not)
-
-try:
-    # Use the get_queue method to retrieve the queue information of your server
-    queue_info = info_api.get_queue()
-
-    # Handle the queue information
-    if queue_info:
-        print("Queue information:")
-        print(queue_info)
-        print(f"Queue info: {queue_info}")
-    else:
-        print("Failed to retrieve queue information.")
-except Exception as e:
-    # Print the error message
-    print(f"An error occurred: {e}")
+PLACEHOLDER CODE BLOCK
 ```
 ### Classes and their methods:
 
@@ -109,6 +65,7 @@ except Exception as e:
 
 
 ## Links
+### [LibertyPY Documentation (W.I.P)](https://about:blank/)
 ### [Python Package (W.I.P)](https://about:blank/)
 ### [PRC API Documentation](https://apidocs.policeroleplay.community/reference/api-reference)
 
