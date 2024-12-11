@@ -6,7 +6,7 @@
 ---------
 
 # LibertyPY
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MM2pZDR" data-context="false" ><a href="//imgur.com/a/MM2pZDR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/a/MM2pZDR
 A Python API wrapper for the ER:LC API.
 
 > [!IMPORTANT]\
