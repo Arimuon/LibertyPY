@@ -7,6 +7,7 @@
 
 # LibertyPY
 <img src="logo.png" alt="LibertyPY Logo" width="200"/>
+
 A Python API wrapper for the ER:LC API.
 
 > [!IMPORTANT]\
