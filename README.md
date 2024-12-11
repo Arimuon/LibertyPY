@@ -35,7 +35,7 @@ pip install PLACEHOLDER
 Setup is easy:
 
 ```python
-from erlcpy import command
+from PLACEHOLDER import command
 
 # Define your API credentials
 base_url = "https://api.policeroleplay.community/v1" # !! Never change this !!
