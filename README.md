@@ -6,7 +6,7 @@
 ---------
 
 # LibertyPY
-https://imgur.com/a/MM2pZDR
+[LibertyPY Logo](https://imgur.com/a/MM2pZDR)
 A Python API wrapper for the ER:LC API.
 
 > [!IMPORTANT]\
