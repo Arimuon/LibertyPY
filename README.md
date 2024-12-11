@@ -10,9 +10,12 @@
 
 A Python API wrapper for the ER:LC *(Emergency Response Liberty County)* API.
 
+---------
+
 > [!IMPORTANT]\
 > PLACEHOLDER
 
+---------
 ## Capabilities:
 - [x] Run ER:LC Commands Remotely
 - [x] Show Server Information
